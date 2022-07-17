@@ -44,7 +44,7 @@ import android.os.Bundle;
 import com.facebook.react.HeadlessJsTaskService;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.jstasks.HeadlessJsTaskConfig;
-import javax.annotation.Nullable;
+import javax.annotation.Nullable:
 
 public class MyTaskService extends HeadlessJsTaskService {
 
